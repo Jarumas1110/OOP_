@@ -7,3 +7,5 @@ class Address_info :
     self.district = district
     self.sub_district = sub_district
     self.postcode = postcode
+
+    
