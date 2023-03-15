@@ -9,3 +9,5 @@ class Product :
      self._size = size
      self._number = number
      self._details = details
+
+     
