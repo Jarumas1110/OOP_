@@ -3,3 +3,5 @@ class Customer :
      self.name_id = name_id 
      self.email = email
      self.tel = tel
+
+     
