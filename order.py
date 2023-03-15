@@ -6,3 +6,5 @@ class Order :
      self._shipiing_cost = shipping_cost
      self._net_balance = net_balance
      self._payment = payment
+
+     
