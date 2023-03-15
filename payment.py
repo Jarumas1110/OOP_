@@ -3,3 +3,5 @@ class Payment :
      self._net_balance = net_balance
      self._transaction_id = transaction_id
      self._status = status
+
+     
